@@ -12,14 +12,15 @@ Meu foco atual é entrar em uma posição de **Analista de Dados Júnior ou BI**
 - **Bibliotecas Python**: pandas, numpy, matplotlib, seaborn, entre outras utilizadas em projetos  
 - **ETL e modelagem de dados**: extração, transformação e carregamento de dados, criação de modelos de banco de dados para análise  
 - **Visualização e análise de dados**: criação de dashboards interativos, KPIs e insights estratégicos  
-
+- **Análise de dados com aplicação de estatística básica para gerar insights acionáveis.
 ---
 
 ## Educação e cursos
 - Ensino médio completo  
-- Formação em Analista de Dados na comunidade DS  
-- Cursos Udemy em modelagem de dados e análise de dados (em andamento)  
-- Futuro curso de R para análise de dados  
+- Formação em Analista de Dados na comunidade DS
+- Inglês intermediário
+- Curso Udemy em modelagem de dados e análise de dados (em andamento)  
+- Curso Udemy em R para análise de dados  (em andamento)
 
 ---
 
