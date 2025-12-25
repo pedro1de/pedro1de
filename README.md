@@ -8,12 +8,12 @@ Meu foco atual é entrar em uma posição de **Analista de Dados Júnior ou BI**
 ---
 
 ## Habilidades técnicas
-- **Linguagens / ferramentas**: Python, SQL (SQLite, PostgreSQL), Power BI, Excel  
+- **Linguagens e ferramentas**: Python, SQL (SQLite, PostgreSQL), Power BI, Excel  
 - **Bibliotecas Python**: pandas, numpy, matplotlib, seaborn, entre outras utilizadas em projetos  
-- **ETL e modelagem de dados**: extração, transformação e carregamento de dados, criação de modelos de banco de dados para análise  
-- **Visualização e análise de dados**: criação de dashboards interativos, KPIs e insights estratégicos  
-- **Análise de dados com aplicação de estatística básica para gerar insights acionáveis.
----
+- **ETL e modelagem de dados**: extração, transformação e carregamento de dados; criação de modelos de banco de dados para análise  
+- **Visualização de dados**: criação de dashboards interativos, KPIs e insights estratégicos  
+- **Análise de dados**: aplicação de estatística básica para gerar insights acionáveis
+
 
 ## Educação e cursos
 - Ensino médio completo  
