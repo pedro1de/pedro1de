@@ -16,7 +16,8 @@ Meu foco atual é entrar em uma posição de **Analista de Dados Júnior ou BI**
 
 
 ## Educação e cursos
-- Ensino médio completo  
+- Ensino médio completo
+- Cursando Ciências Contábeis
 - Formação em Analista de Dados na comunidade DS
 - Inglês intermediário
 - Curso Udemy em modelagem de dados e análise de dados (em andamento)  
